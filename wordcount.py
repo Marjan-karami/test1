@@ -1,3 +1,4 @@
+#
 import sys, os, re
 def usage():
    print("Word and Line counter Marjan Karami, Uni Potsdam, 2023")
